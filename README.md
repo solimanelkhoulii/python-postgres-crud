@@ -1,12 +1,7 @@
-# PostgreSQL Application Assignment
+# Built a Python application with full CRUD functionality connected to a PostgreSQL database, including dynamic query execution, data validation, and a CLI interface.
 
 
-
-**Name:** Soliman Elkhouli
-
-**Student ID:** 101244211 
-
-**Course Code:** COMP 3005
+**Name:** Soliman E.
 
 ## Demonstration Video
 
